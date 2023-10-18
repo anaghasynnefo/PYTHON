@@ -10,4 +10,4 @@ list=[1,3,5,7,9,11,13,4,6,8]
 # print (list)
 # list.insert(4,10)
 # print(list)
-print(list.count(2)) 
+
