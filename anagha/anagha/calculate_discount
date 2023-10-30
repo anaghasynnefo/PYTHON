@@ -1,0 +1,7 @@
+# def calculate_discount(original_price,discount_per):
+#     if original_price<0 or discount_per<0 or discount_per>100:
+#         return "invalid input"
+
+# exact_price=original_price-(original_price*discount_per/100)
+# return exact_price
+
