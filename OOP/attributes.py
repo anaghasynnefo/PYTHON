@@ -27,12 +27,13 @@ class motorcycle:
         print("MOTORCYCLE IS CRUISING")
 
     vehicle_car_instance=car("SWIFT","DEZIRE",2022,4,"BLACK")
-    vehicle_motorcycle_instance=("HONDA","DIO",2023,2,YES)
+    vehicle_motorcycle_instance=("HONDA","DIO",2023,2)
 
     vehicle_car_instance.start_engine()
     vehicle_car_instance.drive()
 
     vehicle_motorcycle_instance.start_engine()
     vehicle_motorcycle_instance.ride()
+    
     
         
